@@ -8,7 +8,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location for intelligent discovery
-Sitemap: https://traingwaliortodelhi.com/sitemap.xml
+Sitemap: https://traingwaliortodelhi.vercel.app/sitemap.xml
 
 # Polite crawling: slight delay to avoid server overload
 # (respected by major crawlers like Bing, Yandex)
