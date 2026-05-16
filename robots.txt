@@ -1,0 +1,15 @@
+# -----------------------------------------------------------------
+# trainGwaliortoDelhi — Luxury Train Travel Blog
+# Robots.txt crafted for optimal crawling & indexation
+# All genuine pages are openly crawlable
+# -----------------------------------------------------------------
+
+User-agent: *
+Allow: /
+
+# Sitemap location for intelligent discovery
+Sitemap: https://traingwaliortodelhi.com/sitemap.xml
+
+# Polite crawling: slight delay to avoid server overload
+# (respected by major crawlers like Bing, Yandex)
+Crawl-delay: 5
